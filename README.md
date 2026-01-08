@@ -32,7 +32,6 @@ Applications with support of IPTV streams.
 
 #### Web
 
-- [IPTV Studio](https://www.iptv-studio.com) - Free browser-based IPTV player with M3U/M3U8 support, bookmarks, multi-device remote control, auto-skip for working streams, and full HLS compatibility.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
@@ -56,6 +55,7 @@ Applications with support of IPTV streams.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
+- [IPTV Studio](https://www.iptv-studio.com) - Free browser-based IPTV player with M3U/M3U8 support, bookmarks, multi-device remote control, auto-skip for working streams, and full HLS compatibility.
   
 #### Windows
 
